@@ -1,0 +1,5 @@
+const log = require("./modules/Local")
+console.log(log)
+log.info('Here is your information')
+log.warning('Here is your warning')
+log.error('Here is your error')
