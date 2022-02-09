@@ -1,2 +1,18 @@
 https://www.postman.com/downloads/
 https://www.mongodb.com/try/download/community
+
+SQL Server Download
+--------------------------
+https://www.microsoft.com/en-in/sql-server/sql-server-downloads
+
+SSMS Download
+------------------
+https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+
+Step by Step Installtion of SQl Server 2019
+-------------------------------------------
+https://www.sqlshack.com/sql-server-2019-overview-and-installation/4
+
+Connect to relational dbs
+-----------------------------
+https://sequelize.org/v7/
